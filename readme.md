@@ -36,3 +36,5 @@ you learn the most when you use the tools
   <a href="https://www.linkedin.com/in/homadb/" target="_blank">Homayoun</a><br>
   </sub>
 </div>
+
+![devopscoursebanner](./images/course-banner.jpg)
