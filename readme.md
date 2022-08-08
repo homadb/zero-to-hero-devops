@@ -24,7 +24,7 @@ you learn the most when you use the tools
 
 
 <div align="center">
-  <h3> 30 Days Of Python: Day 1 - Introduction</h3>
+  <h3> DevOps Course: Zero to Hero - Introduction to Devops</h3>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/homadb/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
