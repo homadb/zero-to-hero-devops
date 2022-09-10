@@ -42,12 +42,12 @@ you learn the most when you use the tools
 
 ### Introduction to DevOps
 
-## Overview and Concept explained 
+#### Overview and Concept explained 
 * different roles with different job descriptions
 * good overview of own department
 * roles and responsibilities of DevOps Engineer ?
 
-## Software Development Lifecycle
+#### Software Development Lifecycle
 * Plan
 * Implement
 * Test
@@ -55,7 +55,7 @@ you learn the most when you use the tools
 * Maintain
 
 ### Complete Software Development Process
-## Programming
+#### Programming
 * software is programmed by developers
 * in different programming languages, e.g. Java, Python, JavaScript
 * on team per app or per feature
