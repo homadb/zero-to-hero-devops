@@ -60,3 +60,54 @@ you learn the most when you use the tools
 * in different programming languages, e.g. Java, Python, JavaScript
 * on team per app or per feature
 
+#### Software Testing
+* test the new features
+* test the old code/fuctionality
+* testing is done by developers and dedicated testers
+* automated testing
+
+#### Release of Software
+* build application
+* run on servers
+* upgrade existing software
+
+#### Operation
+* run software in production
+
+### Traditional: Development vs Operations
+#### Development
+* programming languages
+* test frameworks
+* databases
+* version control
+
+#### Operations
+* OS, mostly Linux
+* command-line
+* scripting
+* monitoring tools
+
+### Solution: DevOps culture
+* DevOps was just a way of working between DEV's and OP's
+* Common language to communicate
+* Became its own role and job
+
+### DevOps tasks and responsibilities
+* needs some know-how from DEV and OP's team
+* additional DevOps specificskills and know-how
+
+### Waterfall vs. Agile
+* influences speed and process of software development
+* the way on organization is developing applications
+
+#### Traditional WATERFALL
+* Requirements: plan everything beforehand
+* Development: developers code complete app
+* Testing: testing after everything has developed
+* Operations: huge perparation
+:x: ineffective process
+X over time new requirments may arise
+X many places of failure and miscommunicatin
+X no fast feedback
+
+
