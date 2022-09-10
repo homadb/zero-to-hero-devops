@@ -105,9 +105,16 @@ you learn the most when you use the tools
 * Development: developers code complete app
 * Testing: testing after everything has developed
 * Operations: huge perparation
-:x: ineffective process
-X over time new requirments may arise
-X many places of failure and miscommunicatin
-X no fast feedback
+* ineffective process:x:
+* over time new requirments may arise:x:
+* many places of failure and miscommunicatin:x:
+* no fast feedback:x:
+
+#### Benefits of Agile
+* speed of development, testing and deployment cycles:white_check_mark:
+* each feature gets tested, deployed
+* immediate feedback
+* fast development and deployment process
+* scrum and kanban - specific implementations
 
 
