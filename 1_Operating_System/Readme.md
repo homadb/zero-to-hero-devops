@@ -28,5 +28,9 @@
 * one app becomes inactive, new one gets resources
 * That process takes some time!
 
-##### Memory Management
+##### Storage Management
 
+###### Data we want to save:
+* your produced files, code
+* VSC code that runs the app itself
+* files - browser configurations - games - pictures - videos
